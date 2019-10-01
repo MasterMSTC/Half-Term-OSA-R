@@ -1,6 +1,6 @@
 # Half-Term-OSA-R
 
-File (rar) contents:
+## File (rar) contents:
    - PRESENTATIONS
    - DATA
    - CODE (Examples)
